@@ -1,2 +1,2 @@
 My first readme
-I won't give up
+Good programmer 
